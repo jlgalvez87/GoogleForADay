@@ -1,0 +1,19 @@
+
+input.word-text{
+    width: 75%;
+}
+
+#content-pane ul{
+    margin-bottom: 5%;
+}
+
+#content-pane ul.nav-ul{
+    background-color: white !important;
+}
+
+div#search-response div{
+    margin-bottom: 2%;
+}
+div#search-response div:last-child{
+    margin-bottom: 0;
+}

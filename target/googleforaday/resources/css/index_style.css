@@ -1,0 +1,26 @@
+/*
+ * form-panel style
+ */
+#form-panel{
+    margin: 0 auto 20%;
+}
+
+.form-text{
+    margin: 0 auto 3%;
+}
+
+.form-buttons{
+    float:none;
+    text-align:center;
+}
+/*
+ * response-panel style
+ */
+#response-panel{
+    margin: 0 auto;
+}
+
+#response-panel p{
+    margin-bottom: 2%;
+    font-weight: normal;
+}
